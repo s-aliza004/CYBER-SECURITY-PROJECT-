@@ -1,4 +1,4 @@
-# CYBER-SECURITY-PROJECT-Email_Spam_Classifier
+# Email_Spam_Classifier
 
 INTRODUCTION:
 Spam emails are unsolicited messages that often contain advertisements, phishing links, or harmful content such as malware. These emails pose serious risks to users by compromising their privacy, security, and productivity. In the cyber security domain, spam detection plays a crucial role in protecting users from social engineering attacks, phishing scams, and the spread of malware via email. Attackers frequently use spam as an entry point to exploit system vulnerabilities, steal credentials, or launch ransomware.
